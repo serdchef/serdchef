@@ -54,13 +54,6 @@ Beyond applied enterprise AI, I conduct research in observational astrophysics a
 
 ---
 
-## 🏛️ Global Leadership & Engagement
-
-- **Curator @ World Economic Forum (WEF) Global Shapers Community (Izmir Hub):** Leading youth-driven socioeconomic and digital innovation initiatives.
-- **Delegation & Summits:** Delegate at the **2025 Annual Summit in Geneva**, Switzerland, and nominee at the **Annual Meeting of the New Champions** (Summer Davos, Dalian, China).
-
----
-
 ## 🛠 Technical Proficiencies
 
 ```text
