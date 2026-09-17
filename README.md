@@ -24,12 +24,13 @@ I don't build weekend toy chatbots — I architect, deploy, and maintain verifie
 - **Core Architecture:** First-Fit Decreasing (FFD) volumetric bin-packing (40ft HC containers vs. 85 m³ Mega-trailers), trilingual ERP normalizer (JTL-Wawi, DE/EN/TR), and automated customs manifest reconciliation (CMR/ATR).
 - **Stack:** `Python`, `Pydantic v2`, `FastAPI`, `Pandas`, `JTL-Wawi ERP`, `Docker`.
 
-### 2. [Sealkit (m2l2m) — AI Reliability & Verification](https://github.com/serdchef/m2l2m)
+### 2. Sealkit — Cryptographic AI Reliability & Verification Engine *(Proprietary / Stealth)*
 > **Tamper-evident receipts and statistical reliability certificates for autonomous AI agents.**
 - **Features:** Merkle-chained ledger (RFC 6962 consistency proofs) anchored with **real RFC 3161 cryptographic timestamps** from independent TSAs (FreeTSA).
 - **Certificates:** Anytime-valid betting e-process accumulating checkable claims into continuous reliability certificates; offline verifier CLI with zero network calls.
 - **Model Context Protocol:** Decouples non-deterministic LLM reasoning from deterministic verification invariants via custom MCP servers.
 - **Stack:** `TypeScript`, `Next.js 15`, `React 19`, `Python FastAPI`, `RFC 3161`, `Merkle Proofs`, `Supabase`.
+- **IP Status:** *Core IP proprietary (private startup; system architecture demo available upon request).*
 
 ### 3. [Alcobra AI — Industrial Sales & RFQ Assistant](https://github.com/serdchef/alcobra-ai-assistant)
 > **Live enterprise AI consultant for Europe's leading non-ferrous metals distributor ([Alcobra GmbH](https://www.alcobra.de)).**
